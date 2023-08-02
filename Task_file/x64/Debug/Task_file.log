@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Task_file.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(16,74): error C2061: syntax error: identifier 'Quiz'
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(157,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(247,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(288,3): error C2660: 'print_for_question': function does not take 5 arguments
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(16,6): message : see declaration of 'print_for_question'
+C:\Users\jafar\OneDrive\Masaüstü\ara\Task_file\Task_file\Source.cpp(288,3): message : while trying to match the argument list '(int, std::string [8], int, int, Quiz)'

@@ -1,0 +1,3 @@
+Python'da "append" funksiyasi esasen hansi obyektlerde istifade olunur?-set-tuple-dictionary-list
+Python'da "range" funksiyasi nece isleyir?-Set'in elementlerini yaradir.-Siralanmis elementler ardicilligi yaradir.-Dictionary-in siyahisini yaradir.-Daxil edilen edede qeder olan bir ededler silsilesi yaradir.
+Python'da "len" funksiyasi hansi obyektlerde istifade olunur?-list-tuple-her ucu-string
